@@ -1,49 +1,40 @@
-<!-- 👋 Hi there — Professional GitHub README for Chirag Bhadani -->
+<!-- 💻 Professional GitHub README for Chirag Bhadani -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#0e75b6;">Chirag Bhadani</span></h1>
+<h1 align="center">Hi 👋, I'm Chirag Bhadani</h1>
 <h3 align="center">
-🚀 Passionate B.Tech Student | 👨‍💻 Aspiring AI Engineer | 🌐 MERN Stack Developer
+🚀 B.Tech CSE Student | 👨‍💻 Aspiring AI Engineer | 🌐 MERN Stack Developer
 </h3>
 
 <p align="center">
 🎯 Currently focusing on <b>Data Structures & Algorithms (C++)</b> and building projects using <b>MERN Stack</b>.<br/>
-🤖 Exploring <b>AI & Generative AI</b> to shape my path toward becoming an <b>AI Engineer</b>.<br/>
-💡 Always eager to learn, practice, and grow in <b>problem solving & full-stack development</b>.
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chirag0621&label=Profile%20views&color=0e75b6&style=flat-square" alt="chirag0621" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=chirag0621&theme=algolia&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-  </a>
+🤖 Exploring <b>AI & Generative AI</b> to become a skilled <b>AI Engineer</b>.<br/>
+💡 Passionate about <b>problem solving, full-stack development, and lifelong learning</b>.
 </p>
 
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/chirag-bhadani-384bb6355" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.leetcode.com/chirag_bhadani" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="40" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/kumarchirag978" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" height="40" />
-  </a>
+    <img src="https://upload.wikimedia.org/commons/7/7c/Codeforces_logo.svg" alt="Codeforces" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/chirag_bhadani" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" />
-  </a>
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/@kumarchirag978" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://www.hackerearth.com/@kumarchirag978" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="40" />
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/HackerEarth_logo.png" alt="HackerEarth" height="40"/>
+  </a>&nbsp;&nbsp;
   <a href="https://auth.geeksforgeeks.org/user/kumarchicknr" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="40"/>
   </a>
 </p>
 
@@ -51,27 +42,40 @@
 
 ### 🧠 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,typescript,react,nodejs,express,mongodb,mysql,tailwind,git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </p>
 
 ---
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag0621&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=chirag0621&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chirag0621&layout=compact&theme=github_dark&hide_border=true" height="180px" alt="Top Languages"/>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=chirag0621&show_icons=true&theme=github_dark&hide_border=true" height="180px" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag0621&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chirag0621&theme=github-dark-blue&hide_border=true" height="180px" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🚀 Currently Working On
-- 📚 Strengthening **Data Structures & Algorithms (C++)**
-- 💻 Building projects with **MERN Stack**
-- 🤖 Exploring **Artificial Intelligence & Generative AI**
+- 📚 Mastering **Data Structures & Algorithms (C++)**
+- 💻 Developing projects with **MERN Stack**
+- 🤖 Learning **Artificial Intelligence & Generative AI**
 
 ---
 
@@ -85,4 +89,6 @@ I believe that **consistent effort beats talent** — every single time.
 
 ---
 
-⭐ **Feel free to explore my repositories and connect — let's learn and grow together!**
+<p align="center">
+⭐ <b>Feel free to explore my repositories and connect — let's learn and grow together!</b> ⭐
+</p>
