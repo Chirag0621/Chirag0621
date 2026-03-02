@@ -1,6 +1,6 @@
 <!-- 💻 Professional GitHub README for Chirag Bhadani -->
 
-<h1 align="center">Hi 👋, I'm Chirag Bhadani</h1>
+<h1 align="center">Hi 👋, I'm Chirag Bhadani</h1>  
 <h3 align="center">
 🚀 B.Tech CSE Student | 👨‍💻 Aspiring AI Engineer | 🌐 MERN Stack Developer
 </h3>
