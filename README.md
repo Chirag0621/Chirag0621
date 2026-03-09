@@ -25,7 +25,7 @@
     <img src="https://upload.wikimedia.org/commons/7/7c/Codeforces_logo.svg" alt="Codeforces" height="40"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/chirag_bhadani" target="_blank">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="40"/>
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="40"/> 
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/@kumarchirag978" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="HackerRank" height="40"/>
