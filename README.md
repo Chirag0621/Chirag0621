@@ -7,7 +7,7 @@
 
 <p align="center">
 🎯 Currently focusing on <b>Data Structures & Algorithms (C++)</b> and building projects using <b>MERN Stack</b>.<br/>
-🤖 Exploring <b>AI & Generative AI</b> to become a skilled <b>AI Engineer</b>.<br/>
+🤖 Exploring <b>AI & Generative AI</b> to know about <b>AI Engineer's work</b>.<br/>
 💡 Passionate about <b>problem solving, full-stack development, and lifelong learning</b>.
 </p>
 
