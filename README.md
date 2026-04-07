@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Chirag Bhadani</h1>  
 <h3 align="center">
-🚀 B.Tech CSE Student
+🚀 B.Tech CSE Student   
 </h3>
 
 <p align="center">
