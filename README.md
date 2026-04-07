@@ -79,20 +79,7 @@ const chirag: Developer = {
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Chirag0621&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag0621&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chirag0621&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chirag0621&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 🏆 Competitive Programming
 
@@ -112,7 +99,7 @@ const chirag: Developer = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chirag0621/Chirag0621/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chirag0621/Chirag0621/output/github-contribution-grid-snake.svg"/>
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Chirag0621/Chirag0621/output/github-contribution-grid-snake-dark.svg"/>
+  
 </picture>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chirag0621&custom_title=Chirag's%20Contribution%20Graph&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph"/>
