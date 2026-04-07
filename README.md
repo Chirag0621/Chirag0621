@@ -4,10 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Chirag+Bhadani;Full+Stack+Developer+%7C+Problem+Solver;+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chiragbhadani&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/chiragbhadani?label=Followers&style=social" alt="GitHub Followers" />
-</p>
+
 
 </div>
 
