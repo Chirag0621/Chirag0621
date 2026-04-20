@@ -30,7 +30,7 @@
 ```typescript
 const chirag: Developer = {
   location:   "India 🇮🇳",
-  education:  "B.Tech — Computer Science Engineering",
+  education:  "B.Tech — Computer Science Engineering",      
   role:       "Student Developer",
 
   stack: {
