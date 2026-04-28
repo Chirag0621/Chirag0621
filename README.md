@@ -15,7 +15,7 @@
 <a href="https://codeforces.com/profile/kumarchirag978"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/chirag_bhadani"><img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white"/></a>
 <a href="https://www.hackerrank.com/@kumarchirag978"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-<a href="https://auth.geeksforgeeks.org/user/kumarchicknr"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/></a>
+<a href="https://auth.geeksforgeeks.org/user/kumarchicknr"><img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c"/>  </a>
 
 </div>
 
